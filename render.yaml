@@ -1,0 +1,12 @@
+services:
+  - name: tg-service
+    type: web
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: |
+      python3 tg.py &  # Run tg.py as a background process
+      python3 app.py   # Start the web server
+    plan: free
+    envVars:
+      - key: ENV
+        value: production
