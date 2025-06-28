@@ -12,7 +12,7 @@
 
 ### **⚠️ Watch This:**
 
-![Warning GIF](./assets/warning.gif)
+![Warning GIF](./assets/ZANI.gif)
 
 
 > **"If you mess with the code, the script WILL destroy itself!"**
