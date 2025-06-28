@@ -7,14 +7,14 @@ Email = "" #Your email here
 Password = "" #Your password here
 
 # --- Telegram Settings ---
-API_ID = 29483517  # Replace with your API ID
-API_HASH = "e35a05d338376cbcd8162f810aed878d" # Replace with your API Hash
-BOT_TOKEN = "7895028307:AAHJZ8GsI102_q4pfWiFJ8GZvO2s21EvmBY" # Replace with your Bot Token
+API_ID =   # Replace with your API ID
+API_HASH = "" # Replace with your API Hash
+BOT_TOKEN = "" # Replace with your Bot Token
 
 # --- User Management & Limits ---
-sudo_users = [5756495153, 5976437467] # List of sudo user IDs (as integers)
-premium_users = [5756495153, 5976437467] # List of premium user IDs (as integers)
-AUTHORIZED_USERS = [5756495153, 5976437467] # List of authorized user IDs to use bot in private (as integers)
+sudo_users = [] # List of sudo user IDs (as integers)
+premium_users = [] # List of premium user IDs (as integers)
+AUTHORIZED_USERS = [] # List of authorized user IDs to use bot in private (as integers)
 
 # Limits for regular users
 REGULAR_USER_AUDIO_LIMIT = 2
