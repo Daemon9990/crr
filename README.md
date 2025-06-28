@@ -12,7 +12,8 @@
 
 ### **⚠️ Watch This:**
 
-![Warning GIF]([https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif](https://jmp.sh/s/gqhtCoJapiNshmXRpvzl))
+![Warning GIF](./assets/warning.gif)
+
 
 > **"If you mess with the code, the script WILL destroy itself!"**
 
