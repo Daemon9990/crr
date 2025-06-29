@@ -7,9 +7,9 @@ Email = "" #Your email here
 Password = "" #Your password here
 
 # --- Telegram Settings ---
-API_ID =   # Replace with your API ID
-API_HASH = "" # Replace with your API Hash
-BOT_TOKEN = "" # Replace with your Bot Token
+API_ID = "24830912"  # Replace with your API ID
+API_HASH = "a1a1775593531b90850b8b82e3b14940" # Replace with your API Hash
+BOT_TOKEN = "7236353424:AAHn8R6OLBMiyP0eyeMQex4xal1_GxxdAys" # Replace with your Bot Token
 
 # --- User Management & Limits ---
 sudo_users = [] # List of sudo user IDs (as integers)
@@ -38,7 +38,7 @@ use_proxy = False # Set to True to use a proxy
 proxy = "" # Proxy URL (e.g., "http://username:password@proxyserver:port")
 
 # watermark settings
-Watermark_Name = "ABC ANIME WORLD" # Your watermark name here
+Watermark_Name = "Bujjiofc" # Your watermark name here
 fontfile = "font.ttf" # Font file path
 fontcolor = "white" # Font color
 opaque = "0.4" # opposite of transparency, 0.0 is fully transparent and 1.0 is fully opaque
