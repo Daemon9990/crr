@@ -3,7 +3,6 @@
 ---
 
 ### **🚨 Important Notice**
-- THIS CODE DOESNT HAVE DECRPYTION IF YOU WANT ORGINAL CODE CONTACT IN TELEGRAM:@CLUTCH008
 - This script is protected with an **encrypted watermark**.
 - CHANGE ONLY CONFIG.PY [IF YOU CHANGE THE LOGIC U KNOW WHAT WILL HAPPEN ] 
 - **Tampering with the code will trigger a self-destruct mechanism.**
@@ -33,9 +32,7 @@
 
 ---
 
-### **📞 Need Help?**
-If you have legitimate reasons to modify the code, contact the creator:
-- **Telegram**: [@CLUTCH008](https://t.me/CLUTCH008)
+
 
 ---
 
